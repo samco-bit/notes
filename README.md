@@ -7,4 +7,4 @@ This was made to try to communicate between two repos
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
-[Comp 1238.md file link](comp1238.md)
+- [Notes](comp1238.md)
